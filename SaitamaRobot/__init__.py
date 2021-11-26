@@ -5,7 +5,6 @@ import time
 import spamwatch
 from pyrogram import Client, errors
 import telegram.ext as tg
-from Python_ARQ import ARQ
 from telethon import TelegramClient
 from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
 
